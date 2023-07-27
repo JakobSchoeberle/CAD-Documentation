@@ -1,5 +1,3 @@
-# CAD-Documentation
-
-Docs for eveything CAD for FRC 4931
+# FRC 4931 CAD Documentation
 
 [Wiki](https://github.com/JakobSchoeberle/CAD-Documentation/wiki)
