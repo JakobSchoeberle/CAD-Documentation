@@ -1,3 +1,3 @@
-# FRC 4931 CAD Documentation
+# CAD Documentation
 
-Go here for the docs --> [Wiki](https://github.com/JakobSchoeberle/CAD-Documentation/wiki)
+Documentation for the FRC 4931 CAD Team
