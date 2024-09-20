@@ -56,7 +56,7 @@ Step E: Set Vault to “FRC 4931 - Edwardsville Tech”
 Step F: Hit “OK” and you should load in and see our files in the left hand side of the
 window.
 
-![Log In](../images/LogIn.png)
+![Log In](./images/LogIn.png)
 
 ## Step 6 - Set up Inventor Project file from Vault
 
@@ -67,7 +67,7 @@ Inventor
 Step B: In the top left hand corner of the screen, under “Get Started” click “Projects”. It
 should open a window like this.
 
-![Projects](../images/Projects.png)
+![Projects](./images/Projects.png)
 
 Under this window you should see the FRC 4931 - Edwardsville Tech
 
@@ -75,7 +75,7 @@ Make sure that has a check mark next to it if not you can do that by double clic
 
 This has now set your project to our vault project. You will need to use this project any time you are using vault. You can switch back to the default project by simply clicking on the checkmark next to default project on the Inventor home screen(make sure no parts, assemblies, etc are open in Inventor for it to switch).
 
-![Inventor Home](../images/InventorHome.png)
+![Inventor Home](./images/InventorHome.png)
 
 ## Step 7 - Set Up Content Center in Inventor
 
@@ -86,6 +86,6 @@ Step B: Go to the Content Center Tab
 Step C: At the bottom under select “Autodesk Vault Server” and check the box for
 “Check all Families for Library updates”
 
-![Application Options](../images/ApplicationOptions.png)
+![Application Options](./images/ApplicationOptions.png)
 
 
