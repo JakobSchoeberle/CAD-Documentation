@@ -1,1 +1,3 @@
-remote_theme: pages-themes/slate@v0.2.0
+title: FRC 4931 CAD Documentation
+description: CAD Resources for FRC 4931
+theme: just-the-docs

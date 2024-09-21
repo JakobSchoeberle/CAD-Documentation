@@ -1,6 +1,13 @@
+---
+layout: default
+title: Autodesk Inventor Setup
+parent: Autodesk Inventor
+nav_order: 2
+---
+
 ## Prerequisites
 
-* Autodesk (Student or Educator) Account  - If not please use [[Setting up an Autodesk Account (OLD)]]
+* Autodesk (Student or Educator) Account  - If not please use [Setting up an Autodesk Account](./Setting-up-an-Autodesk-Account.md)
 
 ## Downloading and Installing
 

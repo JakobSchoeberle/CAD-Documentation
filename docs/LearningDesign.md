@@ -1,3 +1,10 @@
+---
+layout: default
+title: Learning Design
+parent: Getting Started
+nav_order: 3
+---
+
 # Learning Design
 Here are some resoucres for you to learn about robot desgin.
 

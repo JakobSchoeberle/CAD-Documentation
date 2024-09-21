@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
+
 # FRC 4931 CAD Documentation
 
 This is intended as a one stop shop for any and all questions pertaining to CAD for our team.

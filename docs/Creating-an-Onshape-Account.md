@@ -1,3 +1,10 @@
+---
+layout: default
+title: Onshape Setup
+parent: Getting Started
+nav_order: 1
+---
+
 ## Prerequisites
 
 * Be a FIRST Student/Mentor

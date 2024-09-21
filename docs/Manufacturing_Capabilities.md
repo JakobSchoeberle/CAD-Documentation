@@ -1,3 +1,10 @@
+---
+layout: default
+title: Manufacturing Capabilities
+parent: Resources
+nav_order: 1
+---
+
 # Manufacturing Capabilities
 text
 

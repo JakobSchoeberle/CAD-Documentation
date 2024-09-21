@@ -1,3 +1,10 @@
+---
+layout: default
+title: Autodesk Account Setup
+parent: Autodesk Inventor
+nav_order: 1
+---
+
 ## Prerequisites
 
 * An email

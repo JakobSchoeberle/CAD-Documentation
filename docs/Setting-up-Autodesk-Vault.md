@@ -1,9 +1,16 @@
+---
+layout: default
+title: Autodesk Vault Setup
+parent: Autodesk Inventor
+nav_order: 3
+---
+
 ## Prerequisites
 
-If you don't have a student or educator Autodesk account please follow [[Setting up an Autodesk Account (OLD)]]
+If you don't have a student or educator Autodesk account please follow [Setting up an Autodesk Account](./Setting-up-an-Autodesk-Account.md).
 
 While it's not required for Vault you might want Inventor so that you can use the files on the Vault Server. 
-You can do this here [[Setting up Autodesk Inventor (OLD)]].
+You can do this here [Setting up Autodesk Inventor](./Setting-up-Autodesk-Inventor.md).
 
 ## Downloading and Installing
 
