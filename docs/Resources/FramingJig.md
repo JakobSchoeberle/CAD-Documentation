@@ -7,3 +7,4 @@ nav_order: 4
 
 # Framing Jig
 
+![ExampleJig](../images/Framingjig.png)
