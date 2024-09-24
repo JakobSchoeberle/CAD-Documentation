@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Autodesk Inventor Setup
-parent: Autodesk Inventor
+parent: Archive
 nav_order: 2
 ---
 

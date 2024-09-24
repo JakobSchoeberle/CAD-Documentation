@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Autodesk Vault Setup
-parent: Autodesk Inventor
+parent: Archive
 nav_order: 3
 ---
 
