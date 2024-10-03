@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Learning Onshape
-parent: Getting Started
-nav_order: 2
+parent: Learning Design and CAD
+nav_order: 1
 ---
 
 # Learning Onshape

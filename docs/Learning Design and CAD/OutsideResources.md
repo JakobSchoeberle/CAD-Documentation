@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Learning Design
-parent: Getting Started
+title: Outside Resources
+parent: Learning Design and CAD
 nav_order: 3
 ---
 
