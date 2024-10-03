@@ -26,9 +26,15 @@ We want to prove that we should spend more time on this idea. But also that it's
 
 ## Case Study I: Destination Deep Space Ground Pickup
 
+![Ground Pickup Render](../images/GroundPickupRender.png) 
+
 ### Purpose:
 
 The 
+
+
+
+
 
 
 ## Case Study II
