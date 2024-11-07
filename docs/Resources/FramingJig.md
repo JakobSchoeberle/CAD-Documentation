@@ -7,7 +7,7 @@ nav_order: 4
 
 # Framing Jig
 
-The Framing Jig is a tool designed to assist in the process of manufacturing robot frames. It ensures that the frame is held square during assembly. The Framing Jig utilizes a sacrificial reference surface and reuseable reference blocks.
+The Framing Jig is a tool designed to assist in the process of manufacturing robot frames. It ensures that the frame is held square during assembly. The jig utilizes a sacrificial reference surface and reuseable reference blocks. It’s primarily designed to keep the frame in square while fasting it together.
 
 ![Example Jig](../images/Framingjig.png) 
 
@@ -17,5 +17,11 @@ The Reference Surface is lower board that the Jig's blocks attach to. It ensures
 
 ## Reference Blocks
 
-There are two types of reference blocks one that has two bolts and a toggle clamp and a second that only has a single bolt. 
+### Clamping Block
+![Clamping Block](../images/ClampingBlock.png) 
 
+There are two types of reference blocks the Clamping Block and the Stopping Block. Often the Clamping Block when in conjection with the stopping block can be used to constrain the chassis all three major Axis.
+
+
+### Stopping Block
+![Stopping Block](../images/StoppingBlock.png) 
